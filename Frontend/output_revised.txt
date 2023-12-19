@@ -1,0 +1,4 @@
+productserviceFunctionalShouldGetAllProduct=true
+productserviceFunctionalShouldAddANewProduct=true
+productserviceFunctionalShouldUpdateProductById=true
+productserviceFunctionalShouldDeleteProductById=true
